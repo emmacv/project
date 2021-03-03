@@ -12,7 +12,8 @@ h1 {
     font-size: 3rem;
     opacity: 0.8;
     border: 0 0 0 8px;
-    /*!Sorry, you're not any longer Ok*/
+
+    /*change this in order to improve its functionality.*/
 }
 
 main {
