@@ -3,13 +3,15 @@
     padding: 0;
     box-sizing: border-box;
     position: relative;
-    color: white;
 }
+
+
 h1 {
     color: #426696;
     font-weight: 600;
     font-size: 3rem;
-    /*change this in order to improve its functionality.*/
+    opacity: 0.5;
+    border: 0 0 0 8px;
 }
 
 main {
@@ -49,8 +51,6 @@ main {
     width: 20rem;
     position: absolute;
     border-radius: 50vh;
-    transition: .2s linear;
-    /*comment*/
 }
 
 .circle1 {
