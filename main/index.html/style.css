@@ -51,6 +51,8 @@ main {
     width: 20rem;
     position: absolute;
     border-radius: 50vh;
+    transition: .2s linear;
+    /*comment*/
 }
 
 .circle1 {
