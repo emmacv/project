@@ -5,15 +5,13 @@
     position: relative;
     color: white;
 }
-
-
 h1 {
     color: #426696;
     font-weight: 600;
     font-size: 3rem;
     opacity: 0.8;
     border: 0 0 0 8px;
-
+    padding: 2px;
     /*change this in order to improve its functionality.*/
 }
 
