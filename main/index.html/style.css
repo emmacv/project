@@ -9,8 +9,14 @@ h1 {
     color: #426696;
     font-weight: 600;
     font-size: 3rem;
-    margin: 5px;
     /*change this in order to improve its functionality.*/
+}
+
+h2 {
+    color: yellowgreen;
+    padding: 5px;
+    margin: 2px;
+    border-top: 2px;
 }
 
 main {
